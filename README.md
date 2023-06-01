@@ -1,4 +1,4 @@
-# Um componente de projeto #001
+# Um componente de projeto em css // html - #001
 
 - Este é pequeno projeto
 
